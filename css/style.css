@@ -225,7 +225,9 @@ section.module.parallax h2{
 section.module.parallax-4{
   background: #14abaa
 }
-
+section.module.parallax-2{
+  background-image: url(http://i.imgur.com/q4pqETv.jpg);
+}
 }
 section.module.labg{
   background-image: url(http://i.imgur.com/q4pqETv.jpg);
