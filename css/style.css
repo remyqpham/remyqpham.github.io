@@ -33,7 +33,8 @@ body {
 }
 
 ol, ul {
-  list-style: none;
+  list-style-type:circle;
+  padding-left: 5vh;
 }
 
 blockquote, q {
@@ -50,6 +51,13 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+figcaption{
+  text-align: center;
+  padding-bottom: 10px;
+
+}
+
 
 /* ============================================================
   BOX SIZING & CLEARFIX
@@ -130,7 +138,9 @@ section.module:last-child {
 section.module h1{
   font-family:"Cantarell", serif;
   font-size:40px;
-  padding-bottom: 4vh;
+
+  padding-top:20px;
+
 }
 section.module h2 {
   font-family: "Cantarell", serif;
@@ -139,10 +149,19 @@ section.module h2 {
 }
 section.module p {
   font-family: "Cantarell", serif, Arial;
-  margin-bottom: 40px;
+
   font-size: 16px;
   font-weight: 300;
 
+}
+section.module li {
+  font-family:"Cantarell",serif;
+  font-size: 16px;
+}
+
+section.module ul{
+  padding-top: 10px;
+  padding-bottom:5px;
 }
 section.module p:last-child {
   margin-bottom: 0;
@@ -178,6 +197,16 @@ section.module.parallax h1 {
   text-align: center;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
+section.module.parallax h3 {
+  color: rgb(255, 255, 255);
+  font-family: serif;
+  font-size: 40px;
+  font-weight: 500;
+
+  text-align: center;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
 section.module.parallax a{
   font-style: italic;
   color: rgba(255, 255, 255, 0.8);
@@ -196,14 +225,21 @@ section.module.parallax h2{
 section.module.parallax-4{
   background: #14abaa
 }
-section.module.parallax-1 {
-  background-image: url(http://imgur.com/exXYZ6c.jpg);
+
 }
 section.module.parallax-2 {
   background-image: url("../images/lax.jpg");
 }
-section.module.parallax-3 {
-  background-image: url(http://imgur.com/exXYZ6c.jpg);
+
+
+section.module.mainbg{
+  background-image: url(http://i.imgur.com/tR6F7M4.jpg);
+}
+section.module.londonbg{
+  background-image: url(http://i.imgur.com/isOGGQV.jpg);
+}
+section.module.lpbg{
+background-image: url(http://i.imgur.com/XSWjYLm.jpg);
 }
 
 @media all and (min-width: 600px) {
