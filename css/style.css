@@ -118,6 +118,9 @@ main {
 .halfwidth{
   width: 50%;
 }
+.75width{
+  width:75%;
+}
 .highered{
   transform:translateY(-25%);
 }
@@ -281,6 +284,14 @@ section.module.airbnblondonempty{
 
 section.module.niceday3bg{
   background-image: url(http://i.imgur.com/UDzOOEe.jpg);
+}
+
+section.module.montecarlofront{
+  background-image: url(http://i.imgur.com/MjAcTKy.jpg);
+}
+
+section.module.lambo{
+  background-image: url(http://i.imgur.com/LGgJDwF.jpg);
 }
 @media all and (min-width: 600px) {
   section.module h2 {
