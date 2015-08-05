@@ -275,6 +275,13 @@ section.module.map{
 section.module.airbnbjen{
   background-image: url(http://i.imgur.com/AYqR20p.jpg);
 }
+section.module.airbnblondonempty{
+  background-image:url(http://i.imgur.com/IQ5fsGJ.jpg);
+}
+
+section.module.niceday3bg{
+  background-image: url(http://i.imgur.com/UDzOOEe.jpg);
+}
 @media all and (min-width: 600px) {
   section.module h2 {
     font-size: 42px;
