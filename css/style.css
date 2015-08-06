@@ -293,6 +293,13 @@ section.module.montecarlofront{
 section.module.lambo{
   background-image: url(http://i.imgur.com/LGgJDwF.jpg);
 }
+
+section.module.cannesday1bg{
+  background-image:url(http://i.imgur.com/Loplbui.jpg);
+}
+section.module.poop{
+  background-image: url(http://i.imgur.com/yUHc3aJ.jpg);
+}
 @media all and (min-width: 600px) {
   section.module h2 {
     font-size: 42px;
