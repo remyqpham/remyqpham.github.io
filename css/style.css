@@ -300,6 +300,16 @@ section.module.cannesday1bg{
 section.module.poop{
   background-image: url(http://i.imgur.com/yUHc3aJ.jpg);
 }
+
+section.module.cannesday2bg{
+  background-image: url(http://i.imgur.com/VevexZb.jpg);
+}
+
+section.module.cannesday3bg{
+  background-image: url();
+}
+
+
 @media all and (min-width: 600px) {
   section.module h2 {
     font-size: 42px;
