@@ -309,6 +309,45 @@ section.module.cannesday3bg{
   background-image: url(http://i.imgur.com/fL3veiG.jpg);
 }
 
+section.module.port1{
+  background-image: url(http://i.imgur.com/TL3aE5B.jpg);
+}
+
+section.module.pano{
+  background-image: url(http://i.imgur.com/68Bg9Wm.jpg);
+}
+
+section.module.marseilleday1{
+  background-image: url(http://i.imgur.com/Gothw9i.jpg);
+}
+
+section.module.marseilleday2{
+  background-image: url(http://i.imgur.com/68Bg9Wm.jpg);
+}
+
+section.module.marseilleday3{
+  background-image: url(http://i.imgur.com/cst3SuP.jpg);
+}
+
+section.module.{
+  background-image: url();
+}
+
+section.module.{
+  background-image: url();
+}
+
+section.module.{
+  background-image: url();
+}
+
+section.module.{
+  background-image: url();
+}
+
+section.module.{
+  background-image: url();
+}
 
 @media all and (min-width: 600px) {
   section.module h2 {
