@@ -329,8 +329,20 @@ section.module.marseilleday3{
   background-image: url(http://i.imgur.com/cst3SuP.jpg);
 }
 
-section.module.{
+section.module.nimesday1{
+  background-image: url(http://i.imgur.com/SDIfwPP.jpg);
+}
+
+section.module.nimesday2{
   background-image: url();
+}
+
+section.module.carcassonne1{
+  background-image: url(http://i.imgur.com/gee8owN.jpg);
+}
+
+section.module.fuckthat{
+  background-image: url(http://i.imgur.com/IPgobRD.jpg);
 }
 
 section.module.{
@@ -340,15 +352,24 @@ section.module.{
 section.module.{
   background-image: url();
 }
-
 section.module.{
   background-image: url();
 }
-
 section.module.{
   background-image: url();
 }
-
+section.module.{
+  background-image: url();
+}
+section.module.{
+  background-image: url();
+}
+section.module.{
+  background-image: url();
+}
+section.module.{
+  background-image: url();
+}
 @media all and (min-width: 600px) {
   section.module h2 {
     font-size: 42px;
